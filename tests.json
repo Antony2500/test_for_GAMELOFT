@@ -1,0 +1,56 @@
+{
+    "forums": {
+        "101": {
+            "title": "Test Forum 1",
+            "messages": [
+                {
+                    "sending_time": "2024-05-29T12:00:00",
+                    "name_of_the_sender": "TestUser1",
+                    "text": "Hello from TestUser1!",
+                    "picture": null
+                },
+                {
+                    "sending_time": "2024-05-29T12:15:00",
+                    "name_of_the_sender": "TestUser2",
+                    "text": "Hi there!",
+                    "picture": "https://example.com/test.jpg"
+                }
+            ],
+            "users": [
+                {
+                    "user_id": "1001",
+                    "user_name": "TestUser1",
+                    "user_photo": "https://example.com/testuser1.jpg"
+                },
+                {
+                    "user_id": "1002",
+                    "user_name": "TestUser2",
+                    "user_photo": "https://example.com/testuser2.jpg"
+                }
+            ]
+        },
+        "102": {
+            "title": "Test Forum 2",
+            "messages": [
+                {
+                    "sending_time": "2024-05-29T12:30:00",
+                    "name_of_the_sender": "TestUser3",
+                    "text": "Lorem ipsum dolor sit amet",
+                    "picture": null
+                }
+            ],
+            "users": [
+                {
+                    "user_id": "1003",
+                    "user_name": "TestUser3",
+                    "user_photo": "https://example.com/testuser3.jpg"
+                },
+                {
+                    "user_id": "1004",
+                    "user_name": "TestUser4",
+                    "user_photo": "https://example.com/testuser4.jpg"
+                }
+            ]
+        }
+    }
+}
